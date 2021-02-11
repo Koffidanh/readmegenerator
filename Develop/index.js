@@ -22,13 +22,6 @@ function init() {
             message: 'What is your project title?',
         },
         {
-            type: 'confirm',
-            name: 'contents',
-            message: 'Do you want to add Table of Contents?',
-            answer: 'yes'
-
-        },
-        {
             type: 'input',
             name: 'description',
             message: 'What is project description?',

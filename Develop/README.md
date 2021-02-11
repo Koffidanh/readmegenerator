@@ -1,22 +1,30 @@
 
-  # Readme Generator
-  ![badge](https://img.shields.io/badge/license-undefined-brightgreen)<br />
+  # Readma Generator
+  ![badge](https://img.shields.io/badge/license-GNU AGPLv3-brightgreen)<br />
  ## The Repository
- to generate readme
- ## true {
+ this is reame generator
+ 
    ## Table of Contents
    ### [Installation](#installation)
    ### [Usage](#usage)
    ### [Credits](#credits)
    ### [License](#license)
- },
+ 
  ## Installation
- npm i
+ this run
  ## Usage
- her
+ try this
  ## Contribution
- Collaborator's name: gdfg
- GitHub: ![github](https://github.com/kjj)
+ Collaborator's name: Koffi Danhounsrou
+ GitHub: ![github](https://github.com/koffi.danh)
+ Collaborator's name: 
+ GitHub: ![github](https://github.com/)
+ Collaborator's name: 
+ GitHub: ![github](https://github.com/)
+ Collaborator's name: 
+ GitHub: ![github](https://github.com/)
+ Collaborator's name: 
+ GitHub: ![github](https://github.com/)
  ## License
  Licensed under the GNU AGPLv3.
   

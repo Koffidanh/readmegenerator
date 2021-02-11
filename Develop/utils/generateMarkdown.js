@@ -1,24 +1,32 @@
 // function to generate markdown for README
-function generateMarkdown (data) {
-    return `
+function generateMarkdown(data) {
+  return `
   # ${data.projectTitle}
-  ![badge](https://img.shields.io/badge/license-${JSON.stringify(data.licenses)}-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
  ## The Repository
  ${data.description}
- ## ${data.contents} {
+ 
    ## Table of Contents
    ### [Installation](#installation)
    ### [Usage](#usage)
    ### [Credits](#credits)
    ### [License](#license)
- },
+ 
  ## Installation
  ${data.installation}
  ## Usage
  ${data.usage}
  ## Contribution
- Collaborator's name: ${data.collaborators}
- GitHub: ![github](https://github.com/${data.github})
+ Collaborator's name: ${data.collaborator1}
+ GitHub: ![github](https://github.com/${data.github1})
+ Collaborator's name: ${data.collaborator2}
+ GitHub: ![github](https://github.com/${data.github2})
+ Collaborator's name: ${data.collaborator3}
+ GitHub: ![github](https://github.com/${data.github3})
+ Collaborator's name: ${data.collaborator4}
+ GitHub: ![github](https://github.com/${data.github4})
+ Collaborator's name: ${data.collaborator5}
+ GitHub: ![github](https://github.com/${data.github5})
  ## License
  Licensed under the ${data.license}.
   
