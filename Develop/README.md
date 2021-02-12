@@ -1,8 +1,8 @@
 
   # Readme Generator
-  ![badge](https://img.shields.io/badge/license-MIT License-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/License-MIT License-brightgreen)
  ## The Repository
- This application was designed to generate a professional readme for the user.
+ This 'Readme Generator' was created to generate a professional readme. This 'Readme Generator' was designed to present few questions to the user and then create a readme according the the user answered. 
  
    ## Table of Contents
    ### [Installation](#installation)
@@ -11,7 +11,7 @@
    ### [License](#license)
  
  ## Installation
- To run this application, the user need to install the inquirer module by npm i and then answer few questions to generate the readme.
+ To run this application, the user need to install the iquirer module by typing 'npm i' in the terminal and then answer the questions display.
  ## Usage
  Here is the step by step to run this application.
  ## Contribution
@@ -19,6 +19,10 @@
  * Name: Koffi Danhounsrou
  * GitHub: ![github](https://github.com/koffi.danh)
 
+ ## Tests
+  No test required.
+## Video demo
+Here is the demo video.
  ## License
  Licensed under the MIT License.
   

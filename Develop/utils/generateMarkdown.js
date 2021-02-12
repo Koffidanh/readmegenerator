@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `
   # ${data.projectTitle}
-  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/License-${data.license}-brightgreen)
  ## The Repository
  ${data.description}
  
@@ -21,6 +21,10 @@ function generateMarkdown(data) {
  * Name: ${data.collaborator1}
  * GitHub: ![github](https://github.com/${data.github1})
 
+ ## Tests
+  No test required.
+## Video demo
+Here is the demo video.
  ## License
  Licensed under the ${data.license}.
   
