@@ -1,6 +1,6 @@
 
   # ReadMe Generator
-  ![badge](https://img.shields.io/badge/license-MIT License-brightgreen)<br />
+  ![badge](https://img.shields.io/badge/License-MIT-brightgreen)<br />
  ## The Repository
  This application was designed to generate a professional readme.
  
