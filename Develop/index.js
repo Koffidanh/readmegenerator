@@ -36,6 +36,14 @@ function init() {
             name: 'usage',
             message: 'Provide instructions and examples for use including screenshots',
         },
+        // {
+
+        //     type: 'list',
+        //     name: 'collaborators',
+        //     message: 'Choose number of collaborators for the project.',
+        //     choices: ['1', '2', '3', '4', '5'],
+
+        // },
         {
 
             type: 'input',
@@ -43,69 +51,44 @@ function init() {
             message: 'Provide name of the first collaborator. ',
 
         },
-        {
 
-            type: 'input',
-            name: 'collaborator2',
-            message: 'Provide name of the second collaborator. ',
-
-        },
-        {
-
-            type: 'input',
-            name: 'collaborator3',
-            message: 'Provide name of the third collaborator. ',
-
-        },
-        {
-
-            type: 'input',
-            name: 'collaborator4',
-            message: 'Provide name of the fourth collaborator. ',
-
-        },
-        {
-
-            type: 'input',
-            name: 'collaborator5',
-            message: 'Provide name of the fifth collaborator. ',
-
-        },
         {
 
             type: 'input',
             name: 'github1',
-            message: 'What is the first collaborator GitHub username? ',
+            message: 'Provide username of the first GitHub collaborator. ',
 
         },
-        {
+        // {
 
-            type: 'input',
-            name: 'github2',
-            message: 'What is the second collaborator GitHub username? ',
+        //     type: 'input',
+        //     name: 'collaborator2',
+        //     message: 'Provide name of the second collaborator. ',
 
-        },
-        {
+        // },
+        // {
 
-            type: 'input',
-            name: 'github3',
-            message: 'What is the third collaborator GitHub username? ',
+        //     type: 'input',
+        //     name: 'collaborator3',
+        //     message: 'Provide name of the third collaborator. ',
 
-        },
-        {
+        // },
+        // {
 
-            type: 'input',
-            name: 'github4',
-            message: 'What is the fourth collaborator GitHub username? ',
+        //     type: 'input',
+        //     name: 'collaborator4',
+        //     message: 'Provide name of the fourth collaborator. ',
 
-        },
-        {
+        // },
+        // {
 
-            type: 'input',
-            name: 'github5',
-            message: 'What is the fifth collaborator GitHub username? ',
+        //     type: 'input',
+        //     name: 'collaborator5',
+        //     message: 'Provide name of the fifth collaborator. ',
 
-        },
+        // },
+        
+
         {
             type: 'list',
             name: 'license',
@@ -119,15 +102,39 @@ function init() {
         console.log('\nUser input:');
         console.log(JSON.stringify(data, null, '  '));
 
-        writeFileAsync('README.md', generateMarkdown((data))
-           
-
-    );
-
+        writeFileAsync('README.md', generateMarkdown((data)))
+       
+    });
 
 
-})};
+    //
+    // function coll() {
+    //     for (let i = 1; i < data.collaborators; i++) {
 
+    //         question1 = {
+    //             type: 'input',
+    //             name: `collaborator${i}`,
+    //             message: 'Provide name of the first collaborator. ',
+
+    //         }
+
+    //     }
+
+
+    // }
+    // coll()
+    // inquirer.prompt(question1).then((data) => {
+    //     console.log('\nUser input:');
+    //     console.log(JSON.stringify(data, null, '  '));
+
+    //     writeFileAsync('README.md', generateMarkdown((data))
+
+
+    //     );
+
+    // });
+
+};
 
 
 

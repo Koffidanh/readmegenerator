@@ -19,14 +19,14 @@ function generateMarkdown(data) {
  ## Contribution
  Collaborator's name: ${data.collaborator1}
  GitHub: ![github](https://github.com/${data.github1})
- Collaborator's name: ${data.collaborator2}
- GitHub: ![github](https://github.com/${data.github2})
- Collaborator's name: ${data.collaborator3}
- GitHub: ![github](https://github.com/${data.github3})
- Collaborator's name: ${data.collaborator4}
- GitHub: ![github](https://github.com/${data.github4})
- Collaborator's name: ${data.collaborator5}
- GitHub: ![github](https://github.com/${data.github5})
+//  Collaborator's name: ${data.collaborator2}
+//  GitHub: ![github](https://github.com/${data.github2})
+//  Collaborator's name: ${data.collaborator3}
+//  GitHub: ![github](https://github.com/${data.github3})
+//  Collaborator's name: ${data.collaborator4}
+//  GitHub: ![github](https://github.com/${data.github4})
+//  Collaborator's name: ${data.collaborator5}
+//  GitHub: ![github](https://github.com/${data.github5})
  ## License
  Licensed under the ${data.license}.
   
