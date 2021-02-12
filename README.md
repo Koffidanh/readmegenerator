@@ -17,14 +17,7 @@
  ## Contribution
  Collaborator's name: Koffi Danhounsrou
  GitHub: ![github](https://github.com/koffi.danh)
-//  Collaborator's name: undefined
-//  GitHub: ![github](https://github.com/undefined)
-//  Collaborator's name: undefined
-//  GitHub: ![github](https://github.com/undefined)
-//  Collaborator's name: undefined
-//  GitHub: ![github](https://github.com/undefined)
-//  Collaborator's name: undefined
-//  GitHub: ![github](https://github.com/undefined)
+
  ## License
  Licensed under the MIT License.
   
