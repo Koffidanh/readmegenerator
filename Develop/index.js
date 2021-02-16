@@ -36,6 +36,31 @@ function init() {
             name: 'usage',
             message: 'Provide instructions and examples for use including screenshots',
         },
+        {
+            type: 'input',
+            name: 'usage1',
+            message: 'Provide first instruction and examples for use including screenshots',
+        },
+        {
+            type: 'input',
+            name: 'usage2',
+            message: 'Provide second instructions and examples for use including screenshots',
+        },
+        {
+            type: 'input',
+            name: 'usage3',
+            message: 'Provide third instructions and examples for use including screenshots',
+        },
+        {
+            type: 'input',
+            name: 'usage4',
+            message: 'Provide fourth instructions and examples for use including screenshots',
+        },
+        {
+            type: 'input',
+            name: 'usage5',
+            message: 'Provide fifth instructions and examples for use including screenshots',
+        },
         // {
 
         //     type: 'list',
@@ -93,7 +118,7 @@ function init() {
             type: 'list',
             name: 'license',
             message: 'Choose a license for the project.',
-            choices: ['GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT License', 'Boost Software License 1.0'],
+            choices: ['GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'MIT', 'Boost Software License 1.0'],
 
         },
 

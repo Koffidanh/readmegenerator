@@ -7,15 +7,27 @@ function generateMarkdown(data) {
  ${data.description}
  
    ## Table of Contents
-   ### [Installation](#installation)
-   ### [Usage](#usage)
-   ### [Credits](#credits)
-   ### [License](#license)
+   ### * [Installation](#installation)
+   ### * [Usage](#usage)
+   ### * [Credits](#credits)
+   ### * [License](#license)
  
  ## Installation
  ${data.installation}
  ## Usage
  ${data.usage}
+
+ * ${data.usage1}
+ ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/index_js.png)
+ * ${data.usage2}
+ ![open terminal](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/openterminal.png)
+ * ${data.usage3}
+ ![install inquirer](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/npmi.png)
+ * ${data.usage4}
+ ![run code](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
+ * ${data.usage5}
+ ![answer questions](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/questions.png)
+
  ## Contribution
  Collaborators: 
  * Name: ${data.collaborator1}

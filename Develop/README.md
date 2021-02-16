@@ -1,19 +1,31 @@
 
-  # Readme Generator
-  ![badge](https://img.shields.io/badge/License-MIT License-brightgreen)
+  # pen
+  ![badge](https://img.shields.io/badge/License-MIT-brightgreen)
  ## The Repository
- This 'Readme Generator' was created to generate a professional readme. This 'Readme Generator' was designed to present few questions to the user and then create a readme according the the user answered. 
+ pen
  
    ## Table of Contents
-   ### [Installation](#installation)
-   ### [Usage](#usage)
-   ### [Credits](#credits)
-   ### [License](#license)
+  * ###  [Installation](#installation)
+  * ###  [Usage](#usage)
+  * ###  [Credits](#credits)
+  * ###  [License](#license)
  
  ## Installation
- To run this application, the user need to install the iquirer module by typing 'npm i' in the terminal and then answer the questions display.
+ pen
  ## Usage
- Here is the step by step to run this application.
+ pen
+
+ * pen
+ ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/index_js.png)
+ * pen
+ ![open terminal](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/openterminal.png)
+ * pen
+ ![install inquirer](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/npmi.png)
+ * pen
+ ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
+ * pen
+ ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
+
  ## Contribution
  Collaborators: 
  * Name: Koffi Danhounsrou
@@ -24,5 +36,5 @@
 ## Video demo
 Here is the demo video.
  ## License
- Licensed under the MIT License.
+ Licensed under the MIT.
   
