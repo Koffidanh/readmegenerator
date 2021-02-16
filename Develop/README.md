@@ -16,15 +16,15 @@
  pen
 
  * pen
- ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/index_js.png)
+ ![index](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/index_js.png)
  * pen
- ![open terminal](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/openterminal.png)
+ ![open terminal](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/openterminal.png)
  * pen
- ![install inquirer](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/npmi.png)
+ ![install inquirer](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/npmi.png)
  * pen
- ![run code](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
+ ![run code](https://github.com/Koffidanh/readmegenerator/tree/blob/Develop/images/runcode.png)
  * pen
- ![answer questions](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/questions.png)
+ ![answer questions](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/questions.png)
 
  ## Contribution
  Collaborators: 
