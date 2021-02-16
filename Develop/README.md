@@ -5,10 +5,10 @@
  pen
  
    ## Table of Contents
-  * ###  [Installation](#installation)
-  * ###  [Usage](#usage)
-  * ###  [Credits](#credits)
-  * ###  [License](#license)
+   ### * [Installation](#installation)
+   ### * [Usage](#usage)
+   ### * [Credits](#credits)
+   ### * [License](#license)
  
  ## Installation
  pen
@@ -22,14 +22,14 @@
  * pen
  ![install inquirer](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/npmi.png)
  * pen
- ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
+ ![run code](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
  * pen
- ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
+ ![answer questions](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/questions.png)
 
  ## Contribution
  Collaborators: 
- * Name: Koffi Danhounsrou
- * GitHub: ![github](https://github.com/koffi.danh)
+ * Name: pen
+ * GitHub: ![github](https://github.com/pen)
 
  ## Tests
   No test required.
