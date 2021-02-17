@@ -18,7 +18,7 @@ function generateMarkdown(data) {
  ${data.usage}
 
  * ${data.usage1}
- ![index](hhttps://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/index_js.png)
+ ![index](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/index_js.png)
  * ${data.usage2}
  ![open terminal](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/openterminal.png)
  * ${data.usage3}
