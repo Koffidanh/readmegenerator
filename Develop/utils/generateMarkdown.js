@@ -18,9 +18,9 @@ function generateMarkdown(data) {
  ${data.usage}
 
  * ${data.usage1}
- ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/index_js.png)
+ ![index](hhttps://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/index_js.png)
  * ${data.usage2}
- ![open terminal](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/openterminal.png)
+ ![open terminal](https://github.com/Koffidanh/readmegenerator/blo/main/Develop/images/openterminal.png)
  * ${data.usage3}
  ![install inquirer](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/npmi.png)
  * ${data.usage4}
