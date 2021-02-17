@@ -34,7 +34,7 @@
   No test required.
 ## Video demo
 Here is the demo video.
-![demo](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/demo.gif)
+![demo](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/demo.gif){:height="700px" width="400px"}
  ## License
  Licensed under the MIT.
   
