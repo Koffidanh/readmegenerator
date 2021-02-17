@@ -31,7 +31,7 @@ function generateMarkdown(data) {
  ## Contribution
  Collaborators: 
  * Name: ${data.collaborator1}
- * GitHub: ![github](https://github.com/${data.github1})
+ * [GitHub](https://github.com/${data.github1})
 
  ## Tests
   No test required.
