@@ -37,6 +37,7 @@ function generateMarkdown(data) {
   No test required.
 ## Video demo
 Here is the demo video.
+![demo](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/demo.gif)
  ## License
  Licensed under the ${data.license}.
   
