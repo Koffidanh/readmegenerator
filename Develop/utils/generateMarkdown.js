@@ -20,13 +20,13 @@ function generateMarkdown(data) {
  * ${data.usage1}
  ![index](hhttps://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/index_js.png)
  * ${data.usage2}
- ![open terminal](https://github.com/Koffidanh/readmegenerator/blo/main/Develop/images/openterminal.png)
+ ![open terminal](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/openterminal.png)
  * ${data.usage3}
- ![install inquirer](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/npmi.png)
+ ![install inquirer](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/npmi.png)
  * ${data.usage4}
- ![run code](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
+ ![run code](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/runcode.png)
  * ${data.usage5}
- ![answer questions](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/questions.png)
+ ![answer questions](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/questions.png)
 
  ## Contribution
  Collaborators: 
