@@ -1,8 +1,8 @@
 
-  # pen
+  # Readme Generator
   ![badge](https://img.shields.io/badge/License-MIT-brightgreen)
  ## The Repository
- pen
+ This 'Readme Generator' was created to generate a professional readme. This 'Readme Generator' was designed to present few questions to the user and then create a readme according the the user answered.
  
    ## Table of Contents
    ### * [Installation](#installation)
@@ -11,25 +11,25 @@
    ### * [License](#license)
  
  ## Installation
- pen
+ To run this application, the user need to install the inquirer module by typing 'npm i' in the terminal and then answer the questions display.
  ## Usage
- pen
+ Here is the step by step to run this application.
 
- * pen
- ![index](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/index_js.png)
- * pen
- ![open terminal](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/openterminal.png)
- * pen
- ![install inquirer](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/npmi.png)
- * pen
- ![run code](https://github.com/Koffidanh/readmegenerator/tree/blob/Develop/images/runcode.png)
- * pen
- ![answer questions](https://github.com/Koffidanh/readmegenerator/blob/main/Develop/images/questions.png)
+ * First get to the application folder and in index.js and right click on the index.js folder, and then open the terminal.
+ ![index](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/index_js.png)
+ * Second after the terminal opened in the VS Code.
+ ![open terminal](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/openterminal.png)
+ * Third install the "inquirer module " by typing in the terminal 'npm i'.
+ ![install inquirer](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/npmi.png)
+ * Fourth after the installation of the 'inquirer module', type node index.js.This command will run the code in the index.js.
+ ![run code](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/runcode.png)
+ * Fifth step is for the user to answer the displayed questions. After answering those question the 'Readme Generator" will self generated the readme according to the user answer.
+ ![answer questions](https://github.com/Koffidanh/readmegenerator/tree/main/Develop/images/questions.png)
 
  ## Contribution
  Collaborators: 
- * Name: pen
- * GitHub: ![github](https://github.com/pen)
+ * Name: Koffi Danhounsrou
+ * GitHub: ![github](https://github.com/koffi.danh)
 
  ## Tests
   No test required.
